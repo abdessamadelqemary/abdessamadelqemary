@@ -1,18 +1,18 @@
 <br clear="both">
 
-<h2 align="left">Welcome 👋 to My GitHub Profile</h2>
+<h1 align="left">Welcome 👋 to My GitHub Profile</h1>
 
 ###
 
-<h4 align="left">My name is Abdessamad El_Qemary</h4>
+<h2 align="left">My name is Abdessamad El_Qemary</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h4 align="left">About me</h4>
 
 ###
 
-<p align="right">📚 I'm currently learning Frent-end devloper<br>🎯 Goals: Full Stack Devloper</p>
+<p align="left">📚 I'm currently learning Frent-end devloper<br>🎯 Goals: Full Stack Devloper</p>
 
 ###
 
