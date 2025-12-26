@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋! I’m Abdessamad el_qemary, and this is my GitHub Profile.</h1>
+<h1 align="center">Welcome 👋! I’m Abdessamad el_qemary, and this is my Profile.</h1>
 
 ###
 
